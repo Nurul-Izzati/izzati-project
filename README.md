@@ -1,0 +1,2 @@
+# izzati-project
+Learning Python
